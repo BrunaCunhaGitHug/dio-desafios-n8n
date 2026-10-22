@@ -4,7 +4,7 @@
 
 ---
 
-## 🧱 Passo 1: Defina a automação desejada
+##  Passo 1: Defina a automação desejada
 
 **Quero criar uma automação no N8N para:**
 Automatizar a gestão semanal de agenda de clientes, registrando compromissos no Google Agenda, fazendo acompanhamento durante a semana e gerando relatórios de atividades concluídas.
@@ -17,7 +17,7 @@ Cadastrar automaticamente novos compromissos na agenda, checar o status de concl
 
 ---
 
-## 🧱 Passo 2: Adicione contexto e regras
+##  Passo 2: Adicione contexto e regras
 
 **Ferramentas envolvidas:**
 WhatsApp (via Z-API ou Evolution API), Google Agenda, OpenAI (ChatGPT) e Google Sheets (ou Notion).
@@ -35,7 +35,7 @@ WhatsApp (via Z-API ou Evolution API), Google Agenda, OpenAI (ChatGPT) e Google 
 
 ---
 
-## 🧱 Passo 3: Prompt Final
+##  Passo 3: Prompt Final
 
 Atue como um especialista em N8N e engenharia de automação.
 Crie uma automação para gerenciar e acompanhar a agenda semanal de um cliente, incluindo o cadastro de compromissos, acompanhamento de status e geração de relatório de fechamento.
